@@ -1,0 +1,1 @@
+const words = ['Curso','Coder', 'House','Javascript','codigo'];
